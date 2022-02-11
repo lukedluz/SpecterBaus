@@ -1,0 +1,7 @@
+name: SpecterDepositos
+authors: [Specter]
+version: 1.0
+main: com.lucas.specterdepositos.Main
+commands:
+  deposito:
+    aliases: [depositos]
